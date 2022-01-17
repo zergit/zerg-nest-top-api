@@ -13,7 +13,7 @@ import { ConfigModule } from '@nestjs/config';
     AuthModule,
     TopPageModule,
     ProductModule,
-    ReviewModule
+    ReviewModule,
   ],
   controllers: [AppController],
   providers: [AppService],
